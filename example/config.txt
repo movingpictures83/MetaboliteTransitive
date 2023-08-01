@@ -1,0 +1,2 @@
+Prefix plugins/MetaboliteTransitive/example/
+Plugin MetaboliteTransitive inputfile parameters.txt outputfile validTaxaToMetabolitesFileHashFull.csv

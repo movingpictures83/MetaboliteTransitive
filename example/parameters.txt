@@ -1,0 +1,3 @@
+HMDB2KEGG	HMDBtoKEGGcompoundFull.csv
+taxaToGenes	validTaxaToGeneInteractionsFileHash.csv
+genesToReactions	validGenesToReactionsFileHash.csv
